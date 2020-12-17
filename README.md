@@ -1,4 +1,4 @@
-# 3rd-year Ethical Hacking (CMP3**) Module Coursework (PDF).
+# 3rd-year Ethical Hacking (CMP***) Module Coursework (PDF).
 Grey-box web application penetration testing report.
 
 ## Please read.
